@@ -1,4 +1,4 @@
-# Django E-Commerce Project
+# Django E-Commerce Website
 
 ## Introduction
 
