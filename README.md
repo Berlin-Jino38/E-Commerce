@@ -40,4 +40,4 @@ As an admin, you have additional privileges to manage the product inventory:
  3) Sqllite Database
  4) Html and Bootstrap
 
-Project Demonstration Link: https://drive.google.com/drive/u/0/folders/1t9lurhZ7hQnzVw2Q8nJoklNth9NG8so4
+Project Demonstration Link: https://drive.google.com/drive/folders/1t9lurhZ7hQnzVw2Q8nJoklNth9NG8so4?usp=sharing
